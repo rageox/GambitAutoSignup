@@ -1,3 +1,6 @@
+H1 This Chrome Extension Automatically signs up every raid with the same leader (which you can set)
+
+
 **How to install:**
 1. Download Gambit_auto_signup_by_Keiltas.zip
 2. Unzip the project folder
