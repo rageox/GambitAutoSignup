@@ -1,4 +1,4 @@
-H1 This Chrome Extension Automatically signs up every raid with the same leader (which you can set)
+**This Chrome Extension Automatically signs up every raid with the same leader (which you can set)**
 
 
 **How to install:**
