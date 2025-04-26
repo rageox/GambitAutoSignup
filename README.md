@@ -8,5 +8,5 @@
    Done!
 Now to use it: fill the extension form once and click on the green button (save Template) to save it for future uses.
 Open Nova Boosting website, select your template and click on start auto signup!
-
-**[Like my work? Buy me a Coffe \(^_^)/](https://daramet.com/regox)**
+REMEMBER TO use the exact name of your Raid leader (example: Bryisgone-Kazzak [H] )
+**[Like my work? Buy me a Coffee \(^_^)/](https://daramet.com/regox)**
